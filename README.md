@@ -83,9 +83,14 @@ Trello.
 ## Git Process
 **What components of your project will live on GitHub?**
 
-- Website structure files.
-
-- Documention.
+- Documentation
+- Asp.Net backend And frontend
+- Service Api project management
+- ER diagram
+- Wireframe
+- Database
+- Table schema
+- Testing
 
 **How will you share the repository with your teammates?**
 
