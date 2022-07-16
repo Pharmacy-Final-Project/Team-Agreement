@@ -25,15 +25,20 @@ To improve our logical and let us familiar with working under pressure
 We'll conduct a  one hour start up meeting each day to review progress and for the team to open up about any concerns they have.  
 
 ## Conflict Plan  
-See where conflict happen, make sure to make pull before start working
+- See where conflict happen, make sure to make pull before start working
 
-Send the problem on slack and we will explain to him that each person in the team is an asset and can contribute, we should all work together to reach our project's goal
+- Send the problem on slack and we will explain to him that each person in the team is an asset and can contribute, we should all work together to reach our project's goal
 
-We should distribute tasks among us, each member know his/her tasks, so in this way we avoid one person is taking over the project and not letting the other members contribute
+- We should distribute tasks among us, each member know his/her tasks, so in this way we avoid one person is taking over the project and not letting the other members contribute
 
-Try to divide tasks according to each member experience and skills
+- Try to divide tasks according to each member experience and skills
 
-In a respectful way you should contribute with us because this project at the end for us either in the course or coming carrier
+- In a respectful way you should contribute with us because this project at the end for us either in the course or coming carrier
 
-Ask team leader to judge, then we can avoid this to happen
+- Ask team leader to judge, then we can avoid this to happen  
+
+
+
+**How will you raise concerns to members who are not adequately contributing & how and when will you escalate the conflict if your resolution attempts are unsuccessful?**  
+Each team member will get three warnings from the team leader and if the member refuses to cooperate, we will report this issue to the lead instructor of the course.
 
