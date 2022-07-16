@@ -38,7 +38,73 @@ We'll conduct a  one hour start up meeting each day to review progress and for t
 - Ask team leader to judge, then we can avoid this to happen  
 
 
-
 **How will you raise concerns to members who are not adequately contributing & how and when will you escalate the conflict if your resolution attempts are unsuccessful?**  
 Each team member will get three warnings from the team leader and if the member refuses to cooperate, we will report this issue to the lead instructor of the course.
 
+## Communication Plan
+
+**What hours will you be available to communicate?**   
+
+From 9AM to 9PM  
+
+**What platforms will you use to communicate ?**  
+
+WhatsApp, Slack, Zoom and discord.
+
+**How often will you take breaks?**  
+
+As we need.
+
+**What is your plan if you start to fall behind?**
+
+Push ourselves and don't give-up.
+
+**How will you communicate after hours and on the weekend?**
+
+On Discord group
+
+**What is your strategy for ensuring everyone’s voice is heard?**
+
+Everyday start meeting and make sure that everyone engage in this discussion and ask them for their opinion and thoughts.
+
+**How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?**
+
+Offer a funny environment, so everyone feel safe, like they are between their family members.
+
+## Work Plan
+**How you will identify tasks, assign tasks, know when they are complete, and manage work in general?**
+
+Distributed tasks as members skills.
+
+**What project management tool will be used?**
+
+Trello.
+
+## Git Process
+**What components of your project will live on GitHub?**
+
+- Website structure files.
+
+- Documention.
+
+**How will you share the repository with your teammates?**
+
+- We create GitHub Organization.
+
+**What is your Git flow?
+
+- Stage Branch from main.
+
+- Subbranches from development branch.
+
+- PR and merge after each task completion.
+
+How will you be using a PR review workflow?
+
+- One person for review.
+
+- Team Leader confirm PRs.
+
+- Everyday merge.
+
+- Communicate time to merge: completion of everyday task, slack announcement and Discord meeting.
