@@ -2,7 +2,7 @@
 
 ## Team members
 - Hanan Saadeh
-- Shadi Aslan
+- Shadi Aslan (Team Leader)
 - Waseem Abuameer
 - Yousef Samara
 
